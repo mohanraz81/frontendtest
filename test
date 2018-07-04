@@ -1,0 +1,17 @@
+{
+     ObjectUrl: https://s3.amazonaws.com/picture1.jpg
+     ResourceName: level1
+     resources:{
+          ObjectUrl: https://s3.amazonaws.com/picture1.jpg
+          ResourceName: level2
+          resources:
+            {
+                 ObjectUrl: https://s3.amazonaws.com/picture1.jpg
+                 ResourceName: level3
+            
+            }
+          
+     
+     }
+
+}
