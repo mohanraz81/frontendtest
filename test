@@ -1,12 +1,12 @@
 {
-     ObjectUrl: https://s3.amazonaws.com/picture1.jpg
+     ObjectUrl: https://s3.amazonaws.com/mohanrfrontendtest/square1.png
      ResourceName: level1
      resources:{
-          ObjectUrl: https://s3.amazonaws.com/picture1.jpg
+          ObjectUrl: https://s3.amazonaws.com/mohanrfrontendtest/square2.png
           ResourceName: level2
           resources:
             {
-                 ObjectUrl: https://s3.amazonaws.com/picture1.jpg
+                 ObjectUrl: https://s3.amazonaws.com/mohanrfrontendtest/square3.png
                  ResourceName: level3
             
             }
